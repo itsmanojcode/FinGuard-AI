@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+finguard.db
+.pytest_cache/
+.streamlit/
