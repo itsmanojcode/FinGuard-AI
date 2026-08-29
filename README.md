@@ -404,6 +404,24 @@ FinGuard-AI/
 └── tests/
 ```
 
+# 📸 Screenshots
+
+## Dashboard
+
+![FinGuard AI Dashboard](docs/screenshots/dashboard.png)
+
+## Revenue Recovery
+
+![Revenue Recovery](docs/screenshots/revenue-recovery.png)
+
+## Human Approval Queue
+
+![Approval Queue](docs/screenshots/approvals.png)
+
+## Audit Trail
+
+![Audit Trail](docs/screenshots/audit-trail.png)
+
 ---
 
 # ⚙️ Installation
