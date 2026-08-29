@@ -1,4 +1,4 @@
-Bilkul bhai. Tumhare **current FinGuard AI implementation** ke according ek clean, professional README ye rahega. Isko directly `README.md` me paste kar do.
+
 
 ````markdown
 # 🛡️ FinGuard AI
