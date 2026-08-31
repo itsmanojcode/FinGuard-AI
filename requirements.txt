@@ -9,5 +9,5 @@ fastapi>=0.115
 uvicorn>=0.30
 langgraph>=0.2
 langchain-core>=0.3
-google-genai>=1.0.0
+google-genai==1.67.0
 pytest>=8.0
