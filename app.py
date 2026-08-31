@@ -16,7 +16,8 @@ from backend.graph.finance_graph import build_graph
 # ============================================================
 
 #API_URL = "http://127.0.0.1:8000"
-API_URL = "https://finguard-ai-u8ha.onrender.com"
+#API_URL = "https://finguard-ai-u8ha.onrender.com"
+API_URL = "https://finguard-ai-1-lhok.onrender.com"
 
 
 # ============================================================
